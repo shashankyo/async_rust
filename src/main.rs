@@ -16,3 +16,5 @@ async fn main() -> Result<()> {
     println!("Body:\n{}",body);
     Ok(())
 }
+
+println("hello")
